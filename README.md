@@ -1,4 +1,4 @@
-TPO Ingeniería de Datos II – ComuniArte
+TPO Ingeniería de Datos II – ComuniArte 
 
 Descripción general
 
